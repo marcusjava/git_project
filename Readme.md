@@ -4,3 +4,4 @@ Git Tutorial
 2 - git add nome arquivo ou . - envia arquivos pro stage area
 3 - git status - ver status do repositorio
 4 - Trocar branch de master para main - git branch - M main
+5 - Criar nova branch - git checkout -b nova_branch
