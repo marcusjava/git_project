@@ -7,3 +7,7 @@ Git Tutorial
 5 - Criar nova branch - git checkout -b nova_branch
 6 - Retorna para main - git checkout main
 7 - Puxar alterações do repositorio - git pull
+
+PULL REQUEST
+
+1 - Fork do repositorio externo
